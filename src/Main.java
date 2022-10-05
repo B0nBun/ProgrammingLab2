@@ -12,7 +12,7 @@ public class Main {
 		b.addAlly(new Hippopotas("Hippopotas", 1));
 		b.addAlly(new Kirlia("Kirlia", 1));
 		
-		b.addFoe(new Hippowdon("Hippowdon", 2));
+		b.addFoe(new Hippowdon("Hippowdon", 1));
 		b.addFoe(new Gardevoir("Gardevoir", 1));
 		b.addFoe(new Ralts("Ralts", 1));
 
