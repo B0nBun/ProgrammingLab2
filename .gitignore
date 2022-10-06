@@ -1,5 +1,7 @@
-*.jar
+jarred.jar
 *.txt
 build
 tools
 doc.docx
+attack-classes.png
+pokemon-classes.png
